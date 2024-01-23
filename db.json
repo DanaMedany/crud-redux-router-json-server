@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Learn with KamizCode",
+      "description": "doing frontend react app"
+    },
+    {
+      "id": "129",
+      "title": "happy",
+      "description": "birthday family love you all",
+      "creator": " Dana"
+    },
+    {
+      "id": "41",
+      "title": "holiday",
+      "description": "for the new year 2024",
+      "creator": " Dana"
+    },
+    {
+      "id": "102",
+      "title": "iphone",
+      "description": "playing with my iPhone 15Pro",
+      "creator": " Dana"
+    },
+    {
+      "id": "191",
+      "title": "Watch TV",
+      "description": "with my family mom and sisters !!!",
+      "creator": " Dana"
+    },
+    {
+      "id": "22",
+      "title": "validation Schema",
+      "description": "with Formik",
+      "creator": " Dana"
+    },
+    {
+      "id": "171",
+      "title": "Getting ready",
+      "description": "for interview",
+      "creator": " Dana"
+    }
+  ]
+}
